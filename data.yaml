@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['hole', 'swatch']
+
+roboflow:
+  workspace: fizzabatool6157-gmail-com
+  project: crochet-detection-civ4f
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fizzabatool6157-gmail-com/crochet-detection-civ4f/dataset/1
