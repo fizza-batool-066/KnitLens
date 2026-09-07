@@ -1,7 +1,6 @@
 # 🧶 KnitLens  
 ## AI-Powered Crochet Progress Tracker and Smart Crafting Assistant
 
-![KnitLens](screenshots/banner.png)
 
 ## 📌 Overview
 
